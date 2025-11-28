@@ -22,3 +22,4 @@ for(let i=1; i<=100; i++) {
 body.append(fragment);
 p2 = performance.now();
 console.log("Code 2 time: ", p2-p1);
+// 
